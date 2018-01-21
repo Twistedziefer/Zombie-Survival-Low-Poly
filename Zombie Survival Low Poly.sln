@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Survival Low Poly", "Zombie Survival Low Poly.csproj", "{97495A5C-BF98-80AF-B949-F3F19BC56FC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombie Survival Low Poly.Editor", "Zombie Survival Low Poly.Editor.csproj", "{B8DE6BAF-0144-0509-C98F-FC208B3144E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97495A5C-BF98-80AF-B949-F3F19BC56FC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97495A5C-BF98-80AF-B949-F3F19BC56FC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97495A5C-BF98-80AF-B949-F3F19BC56FC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97495A5C-BF98-80AF-B949-F3F19BC56FC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8DE6BAF-0144-0509-C98F-FC208B3144E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DE6BAF-0144-0509-C98F-FC208B3144E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DE6BAF-0144-0509-C98F-FC208B3144E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DE6BAF-0144-0509-C98F-FC208B3144E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
